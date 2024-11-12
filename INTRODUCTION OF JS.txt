@@ -1,0 +1,28 @@
+What is Javascript?
+1. Javascript is light weight and object oriented programming languagge used by several websites for scripting web pages.
+2. It is interpreted and full fledged programming language used for dynamic interactivity on websites when applied to html document.
+3. It is introduced in the year 1995 to add programs in web page in netspace nevigator web browser.
+4. Then it is adopted by graphic web browser and enables the user to make modern web applications without loading page everytime.
+
+What are the features of Javascript?
+1.It is supported by several browsers as they provide built in execution enviornment
+2.It is light weight and object oriented programming language
+3.It is case sensitive programming language 
+4.It is interpreted 
+5.It is structurewd programming language as it follows syntax and structure of C language
+6. It can be run in different operating system like macos,windows,linux
+7. It provide users good control over browsers
+
+[Imp note]It is made to work in console of browsers initially and it is dynamic typed programming language(as you need not to define data type while declaring a variable)
+
+Why one should learn this?
+It is one of the language that web developers must learn:
+HTML:to define the structure of web page
+CSS:to specify layout of web page
+JS:to program the behaviour of web page
+
+What are the applications of Js?
+1. It is used to make interactive websites
+2.Client-side validation
+3.Displaying Date and Time
+4 Displaying pop up windows and dialogue boxes 
